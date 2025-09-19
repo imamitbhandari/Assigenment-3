@@ -1,3 +1,4 @@
+#Booking system
 class BookingSystem:
     counter = 1 
 
