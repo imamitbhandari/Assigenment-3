@@ -9,7 +9,6 @@ This project was an excellent opportunity to relate theory with practice, as I a
 When working on this project, I applied the following concepts:  
 	Classes and Objects) I created a class which is named BookingSystem to be able to combine all the details and methods there. This made me realize how data (such as name of passengers, ID and ticket number) as well as actions (such as accepting or declaring a reservation) can be united within a single logical unit.
 	Encapsulation I had many distinct functions, but I put all the methods that concerned booking in a single class. This ensures that the code is easier to maintain, and it does not cause confusion.
-	Single Responsibility Principle I attempted to make sure that each method performs a single task. To illustrate this, the methods like customer info and ferry service details are only collecting the information of the passengers and computing the total cost respectively.
 	User Input Handling The user is required to enter information into the program (such as ID number, service name and price). I also got to know that inputs should be checked to ensure that there are no mistakes.
 
 
