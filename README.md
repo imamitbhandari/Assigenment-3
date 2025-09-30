@@ -8,8 +8,8 @@ The system allows users to:
 - Select services (such as ferry bookings)
 - Calculate the total cost
 - Approve or reject bookings
-  
-The project made me realize that Object-Oriented Programming (OOP) can be applied to create clean, modular and structured code. It also gave me practical experience in the implementation of design principles like Encapsulation, Single Responsibility Principle (SRP), Don’t Repeat Yourself (DRY) and Keep It Simple (KISS).
+    
+The project made me realize that Object-Oriented Programming (OOP) can be applied to create clean, modular and structured code. It also gave me practical experience in the implementation of design principles like Encapsulation, SRP, DRY and KISS.
 
 This experience taught me how to relate theory and practice by working on a Python program and applying principles to it.
 
